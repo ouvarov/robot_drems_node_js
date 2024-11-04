@@ -8,8 +8,5 @@
   "keywords": [],
   "author": "Uvarov",
   "license": "ISC",
-  "description": "",
-  "dependencies": {
-    "redis": "^4.7.0"
-  }
+  "description": ""
 }
